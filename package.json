@@ -1,0 +1,14 @@
+{
+  "name": "agario-clone",
+  "version": "1.0.0",
+  "description": "Agar.io clone with Ethereum integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'No build step needed'"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.4"
+  }
+}
